@@ -1,3 +1,10 @@
+/**
+*	Apex Notification Services: given an exception, sends a notification to a defined user.
+*	
+*	Check source repo: https://github.com/aldoforce/apex-notification-services
+* Send some feedback! Happy coding!
+* --@aldoforce
+**/
 public with sharing class ApexNotificationServices {
 	
 	public static void notify(Exception pException) {
